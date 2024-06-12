@@ -1,0 +1,18 @@
+form login
+
+form register{
+email
+username
+password
+role
+}
+
+main mennu(pembelian,penjualan,gudang)
+database=
+
+privilage=3
+user, admin, petugas
+
+user= memebeli
+admin= menjual
+petugas= orang yang masukin ke stok gudang
